@@ -1,1 +1,1 @@
-This program will assign a random number to the variable
+1. The last digit
