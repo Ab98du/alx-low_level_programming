@@ -1,1 +1,1 @@
-alphabett
+3p alphabet
