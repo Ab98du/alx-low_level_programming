@@ -1,1 +1,1 @@
- different combinations of two digits
+rints all possible combinations of two two-digit num
